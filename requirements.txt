@@ -1,0 +1,4 @@
+# 🐝 Зависимости бота «Улей»
+# Установка: pip install -r requirements.txt
+
+py-cord==2.6.1
